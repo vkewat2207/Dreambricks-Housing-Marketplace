@@ -1,4 +1,8 @@
 React js House Marketplace App Full stack Project with source code
+live Website https://dreambricks-marketplace.onrender.com
+
+for login u can directly use your google account as i have enabled that feature also first  time 
+
 
 
 In this project I have used latest technologies like React Router Dom V6 for Routing (Single Page Application), also we have use Bootstrap 5 CSS to designing and for back-end Firebase V9 which is latest one from google Firebase.I have learn react from the scratch by doing project.Myself used hooks in this project also we have protect routes in this projects also create rules for Firebase database.
